@@ -1,0 +1,8 @@
+<FILES *.sql>
+	order allow,deny
+	deny from all
+</FILES>
+<FILES *.gz>
+	order allow,deny
+	deny from all
+</FILES>
